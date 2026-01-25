@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <!-- ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:)  -->
 
-# 💻 Tech Stack (95):
+# 💻 Tech Stack (100):
 
-[![Angular][Angular-shield]][Angular-url] [![Angular.js][Angular.js-shield]][Angular.js-url] [![Apache][Apache-shield]][Apache-url] [![Apache Maven][Apache Maven-shield]][Apache Maven-url] [![Astro][Astro-shield]][Astro-url] [![Biome][Biome-shield]][Biome-url] [![Bootstrap][Bootstrap-shield]][Bootstrap-url] [![Bun][Bun-shield]][Bun-url] [![Clerk][Clerk-shield]][Clerk-url] [![Cloudflare][Cloudflare-shield]][Cloudflare-url] [![DigitalOcean][DigitalOcean-shield]][DigitalOcean-url] [![Django][Django-shield]][Django-url] [![DjangoREST][DjangoREST-shield]][DjangoREST-url] [![Docker][Docker-shield]][Docker-url] [![EJS][EJS-shield]][EJS-url] [![Electron.js][Electron.js-shield]][Electron.js-url] [![ESLint][ESLint-shield]][ESLint-url] [![Express.js][Express.js-shield]][Express.js-url] [![FastAPI][FastAPI-shield]][FastAPI-url] [![FFmpeg][FFmpeg-shield]][FFmpeg-url] [![Figma][Figma-shield]][Figma-url] [![Firebase][Firebase-shield]][Firebase-url] [![Gimp][Gimp-shield]][Gimp-url] [![Git][Git-shield]][Git-url] [![GitHub][GitHub-shield]][GitHub-url] [![GitHub Actions][GitHub Actions-shield]][GitHub Actions-url] [![GitLab][GitLab-shield]][GitLab-url] [![Glitch][Glitch-shield]][Glitch-url] [![GNU Bash][GNU Bash-shield]][GNU Bash-url] [![Heroku][Heroku-shield]][Heroku-url] [![HTML5][HTML5-shield]][HTML5-url] [![Ionic][Ionic-shield]][Ionic-url] [![Jasmine][Jasmine-shield]][Jasmine-url] [![Java][Java-shield]][Java-url] [![JavaScript][JavaScript-shield]][JavaScript-url] [![Jenkins][Jenkins-shield]][Jenkins-url] [![Jira][Jira-shield]][Jira-url] [![jQuery][jQuery-shield]][jQuery-url] [![JSON Web Tokens][JSON Web Tokens-shield]][JSON Web Tokens-url] [![Lua][Lua-shield]][Lua-url] [![Markdown][Markdown-shield]][Markdown-url] [![Matplotlib][Matplotlib-shield]][Matplotlib-url] [![MongoDB][MongoDB-shield]][MongoDB-url] [![MUI][MUI-shield]][MUI-url] [![MySQL][MySQL-shield]][MySQL-url] [![Next JS][Next JS-shield]][Next JS-url] [![Nginx][Nginx-shield]][Nginx-url] [![NodeJS][NodeJS-shield]][NodeJS-url] [![Nodemon][Nodemon-shield]][Nodemon-url] [![Notion][Notion-shield]][Notion-url] [![NPM][NPM-shield]][NPM-url] [![NumPy][NumPy-shield]][NumPy-url] [![Oracle][Oracle-shield]][Oracle-url] [![Pandas][Pandas-shield]][Pandas-url] [![PHP][PHP-shield]][PHP-url] [![PlanetScale][PlanetScale-shield]][PlanetScale-url] [![Plotly][Plotly-shield]][Plotly-url] [![PocketBase][PocketBase-shield]][PocketBase-url] [![Postgres][Postgres-shield]][Postgres-url] [![Postman][Postman-shield]][Postman-url] [![PowerShell][PowerShell-shield]][PowerShell-url] [![Prisma][Prisma-shield]][Prisma-url] [![Python][Python-shield]][Python-url] [![PyTorch][PyTorch-shield]][PyTorch-url] [![React][React-shield]][React-url] [![React Hook Form][React Hook Form-shield]][React Hook Form-url] [![React Native][React Native-shield]][React Native-url] [![React Router][React Router-shield]][React Router-url] [![Remix][Remix-shield]][Remix-url] [![Resend][Resend-shield]][Resend-url] [![SASS][SASS-shield]][SASS-url] [![Sentry][Sentry-shield]][Sentry-url] [![shadcn/ui][shadcn/ui-shield]][shadcn/ui-url] [![SQLite][SQLite-shield]][SQLite-url] [![Styled Components][Styled Components-shield]][Styled Components-url] [![Supabase][Supabase-shield]][Supabase-url] [![Svelte][Svelte-shield]][Svelte-url] [![SvelteKit][SvelteKit-shield]][SvelteKit-url] [![TailwindCSS][TailwindCSS-shield]][TailwindCSS-url] [![TanStack Devtools][TanStack Devtools-shield]][TanStack Devtools-url] [![TanStack Form][TanStack Form-shield]][TanStack Form-url] [![TanStack Pacer][TanStack Pacer-shield]][TanStack Pacer-url] [![TanStack Query][TanStack Query-shield]][TanStack Query-url] [![TanStack Router][TanStack Router-shield]][TanStack Router-url] [![TanStack Start][TanStack Start-shield]][TanStack Start-url] [![TanStack Store][TanStack Store-shield]][TanStack Store-url] [![TanStack Table][TanStack Table-shield]][TanStack Table-url] [![TanStack Virtual][TanStack Virtual-shield]][TanStack Virtual-url] [![Tauri][Tauri-shield]][Tauri-url] [![Trello][Trello-shield]][Trello-url] [![TypeScript][TypeScript-shield]][TypeScript-url] [![Vercel][Vercel-shield]][Vercel-url] [![Vite][Vite-shield]][Vite-url] [![Webpack][Webpack-shield]][Webpack-url] [![WordPress][WordPress-shield]][WordPress-url]
+[![Angular][Angular-shield]][Angular-url] [![Apache][Apache-shield]][Apache-url] [![Apache Maven][Apache Maven-shield]][Apache Maven-url] [![Astro][Astro-shield]][Astro-url] [![Biome][Biome-shield]][Biome-url] [![Bootstrap][Bootstrap-shield]][Bootstrap-url] [![Bun][Bun-shield]][Bun-url] [![Clerk][Clerk-shield]][Clerk-url] [![Cloudflare][Cloudflare-shield]][Cloudflare-url] [![Cypress][Cypress-shield]][Cypress-url] [![DigitalOcean][DigitalOcean-shield]][DigitalOcean-url] [![Django][Django-shield]][Django-url] [![DjangoREST][DjangoREST-shield]][DjangoREST-url] [![Docker][Docker-shield]][Docker-url] [![EJS][EJS-shield]][EJS-url] [![Electron.js][Electron.js-shield]][Electron.js-url] [![ESLint][ESLint-shield]][ESLint-url] [![Express.js][Express.js-shield]][Express.js-url] [![FastAPI][FastAPI-shield]][FastAPI-url] [![FFmpeg][FFmpeg-shield]][FFmpeg-url] [![Figma][Figma-shield]][Figma-url] [![Firebase][Firebase-shield]][Firebase-url] [![Framer Motion][Framer Motion-shield]][Framer Motion-url] [![Gimp][Gimp-shield]][Gimp-url] [![Git][Git-shield]][Git-url] [![GitHub][GitHub-shield]][GitHub-url] [![GitHub Actions][GitHub Actions-shield]][GitHub Actions-url] [![GitLab][GitLab-shield]][GitLab-url] [![Glitch][Glitch-shield]][Glitch-url] [![GNU Bash][GNU Bash-shield]][GNU Bash-url] [![Heroku][Heroku-shield]][Heroku-url] [![HTML5][HTML5-shield]][HTML5-url] [![Ionic][Ionic-shield]][Ionic-url] [![Jasmine][Jasmine-shield]][Jasmine-url] [![Java][Java-shield]][Java-url] [![JavaScript][JavaScript-shield]][JavaScript-url] [![Jenkins][Jenkins-shield]][Jenkins-url] [![Jest][Jest-shield]][Jest-url] [![Jira][Jira-shield]][Jira-url] [![jQuery][jQuery-shield]][jQuery-url] [![JSON Web Tokens][JSON Web Tokens-shield]][JSON Web Tokens-url] [![Lua][Lua-shield]][Lua-url] [![Markdown][Markdown-shield]][Markdown-url] [![Matplotlib][Matplotlib-shield]][Matplotlib-url] [![MongoDB][MongoDB-shield]][MongoDB-url] [![MUI][MUI-shield]][MUI-url] [![MySQL][MySQL-shield]][MySQL-url] [![Next JS][Next JS-shield]][Next JS-url] [![Nginx][Nginx-shield]][Nginx-url] [![NodeJS][NodeJS-shield]][NodeJS-url] [![Nodemon][Nodemon-shield]][Nodemon-url] [![Notion][Notion-shield]][Notion-url] [![NPM][NPM-shield]][NPM-url] [![NumPy][NumPy-shield]][NumPy-url] [![Oracle][Oracle-shield]][Oracle-url] [![Pandas][Pandas-shield]][Pandas-url] [![PHP][PHP-shield]][PHP-url] [![PlanetScale][PlanetScale-shield]][PlanetScale-url] [![Plotly][Plotly-shield]][Plotly-url] [![PocketBase][PocketBase-shield]][PocketBase-url] [![Postgres][Postgres-shield]][Postgres-url] [![Postman][Postman-shield]][Postman-url] [![PowerShell][PowerShell-shield]][PowerShell-url] [![Prisma][Prisma-shield]][Prisma-url] [![Python][Python-shield]][Python-url] [![PyTorch][PyTorch-shield]][PyTorch-url] [![React][React-shield]][React-url] [![React Hook Form][React Hook Form-shield]][React Hook Form-url] [![React Native][React Native-shield]][React Native-url] [![React Router][React Router-shield]][React Router-url] [![Remix][Remix-shield]][Remix-url] [![Resend][Resend-shield]][Resend-url] [![Rust][Rust-shield]][Rust-url] [![SASS][SASS-shield]][SASS-url] [![Sentry][Sentry-shield]][Sentry-url] [![shadcn/ui][shadcn/ui-shield]][shadcn/ui-url] [![SQLite][SQLite-shield]][SQLite-url] [![Styled Components][Styled Components-shield]][Styled Components-url] [![Supabase][Supabase-shield]][Supabase-url] [![Svelte][Svelte-shield]][Svelte-url] [![SvelteKit][SvelteKit-shield]][SvelteKit-url] [![TailwindCSS][TailwindCSS-shield]][TailwindCSS-url] [![TanStack Devtools][TanStack Devtools-shield]][TanStack Devtools-url] [![TanStack Form][TanStack Form-shield]][TanStack Form-url] [![TanStack Pacer][TanStack Pacer-shield]][TanStack Pacer-url] [![TanStack Query][TanStack Query-shield]][TanStack Query-url] [![TanStack Router][TanStack Router-shield]][TanStack Router-url] [![TanStack Start][TanStack Start-shield]][TanStack Start-url] [![TanStack Store][TanStack Store-shield]][TanStack Store-url] [![TanStack Table][TanStack Table-shield]][TanStack Table-url] [![TanStack Virtual][TanStack Virtual-shield]][TanStack Virtual-url] [![Tauri][Tauri-shield]][Tauri-url] [![Trello][Trello-shield]][Trello-url] [![TypeScript][TypeScript-shield]][TypeScript-url] [![Vercel][Vercel-shield]][Vercel-url] [![Vite][Vite-shield]][Vite-url] [![Vitest][Vitest-shield]][Vitest-url] [![Webpack][Webpack-shield]][Webpack-url] [![WordPress][WordPress-shield]][WordPress-url] [![Zod][Zod-shield]][Zod-url]
 
 # 📊 GitHub Stats:
 
@@ -54,8 +54,6 @@ Here are some ideas to get you started:
 
 [Angular-shield]: https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white
 [Angular-url]: https://angular.dev/
-[Angular.js-shield]: https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white
-[Angular.js-url]: https://angular.dev/
 [Apache-shield]: https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white
 [Apache-url]: https://httpd.apache.org/
 [Apache Maven-shield]: https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white
@@ -72,6 +70,8 @@ Here are some ideas to get you started:
 [Clerk-url]: https://clerk.com/
 [Cloudflare-shield]: https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white
 [Cloudflare-url]: https://www.cloudflare.com/
+[Cypress-shield]: https://img.shields.io/badge/Cypress-17202C?style=plastic&logo=cypress&logoColor=white
+[Cypress-url]: https://www.cypress.io/
 [DigitalOcean-shield]: https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white
 [DigitalOcean-url]: https://www.digitalocean.com/
 [Django-shield]: https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white
@@ -96,6 +96,8 @@ Here are some ideas to get you started:
 [Figma-url]: https://www.figma.com/
 [Firebase-shield]: https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34
 [Firebase-url]: https://firebase.google.com
+[Framer Motion-shield]: https://img.shields.io/badge/Framer_Motion-0055FF?style=plastic&logo=framer
+[Framer Motion-url]: https://www.framer.com/motion/
 [Gimp-shield]: https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF
 [Gimp-url]: https://www.gimp.org/
 [Git-shield]: https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white
@@ -124,6 +126,8 @@ Here are some ideas to get you started:
 [JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Jenkins-shield]: https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white
 [Jenkins-url]: https://www.jenkins.io/
+[Jest-shield]: https://img.shields.io/badge/Jest-C21325?logo=jest
+[Jest-url]: https://jestjs.io/
 [Jira-shield]: https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white
 [Jira-url]: https://www.atlassian.com/software/jira
 [jQuery-shield]: https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white
@@ -192,6 +196,8 @@ Here are some ideas to get you started:
 [Remix-url]: https://remix.run/
 [Resend-shield]: https://img.shields.io/badge/resend-000000?style=plastic&logo=resend
 [Resend-url]: https://resend.com/
+[Rust-shield]: https://img.shields.io/badge/Rust-000000?logo=rust
+[Rust-url]: https://www.rust-lang.org/
 [SASS-shield]: https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white
 [SASS-url]: https://sass-lang.com/
 [Sentry-shield]: https://img.shields.io/badge/Sentry-362D59?style=plastic&logo=sentry
@@ -238,7 +244,11 @@ Here are some ideas to get you started:
 [Vercel-url]: https://vercel.com/
 [Vite-shield]: https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white
 [Vite-url]: https://vite.dev/
+[Vitest-shield]: https://img.shields.io/badge/Vitest-000000?logo=vitest
+[Vitest-url]: https://vitest.dev/
 [Webpack-shield]: https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black
 [Webpack-url]: https://webpack.js.org/
 [WordPress-shield]: https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white
 [WordPress-url]: https://wordpress.com/
+[Zod-shield]: https://img.shields.io/badge/Zod-001C48?logo=zod
+[Zod-url]: https://zod.dev/
