@@ -126,7 +126,7 @@ Here are some ideas to get you started:
 [JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Jenkins-shield]: https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white
 [Jenkins-url]: https://www.jenkins.io/
-[Jest-shield]: https://img.shields.io/badge/Jest-C21325?logo=jest
+[Jest-shield]: https://img.shields.io/badge/Jest-C21325?style=plastic&logo=jest
 [Jest-url]: https://jestjs.io/
 [Jira-shield]: https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white
 [Jira-url]: https://www.atlassian.com/software/jira
@@ -196,7 +196,7 @@ Here are some ideas to get you started:
 [Remix-url]: https://remix.run/
 [Resend-shield]: https://img.shields.io/badge/resend-000000?style=plastic&logo=resend
 [Resend-url]: https://resend.com/
-[Rust-shield]: https://img.shields.io/badge/Rust-000000?logo=rust
+[Rust-shield]: https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust
 [Rust-url]: https://www.rust-lang.org/
 [SASS-shield]: https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white
 [SASS-url]: https://sass-lang.com/
@@ -244,11 +244,11 @@ Here are some ideas to get you started:
 [Vercel-url]: https://vercel.com/
 [Vite-shield]: https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white
 [Vite-url]: https://vite.dev/
-[Vitest-shield]: https://img.shields.io/badge/Vitest-000000?logo=vitest
+[Vitest-shield]: https://img.shields.io/badge/Vitest-000000?style=plastic&logo=vitest
 [Vitest-url]: https://vitest.dev/
 [Webpack-shield]: https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plastic&logo=webpack&logoColor=black
 [Webpack-url]: https://webpack.js.org/
 [WordPress-shield]: https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white
 [WordPress-url]: https://wordpress.com/
-[Zod-shield]: https://img.shields.io/badge/Zod-001C48?logo=zod
+[Zod-shield]: https://img.shields.io/badge/Zod-001C48?style=plastic&logo=zod
 [Zod-url]: https://zod.dev/
